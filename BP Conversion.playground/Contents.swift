@@ -30,3 +30,4 @@ do {
 }
 
 var newValue = try? BP(bpString: "142/87")
+var anotherValue = 15
